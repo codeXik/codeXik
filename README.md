@@ -16,7 +16,7 @@
 <h3>SkorFire Live Football</h3>
 Live scores, fixtures, tables and goal notifications in the browser toolbar. No server, no dependencies, 19 languages.<br>
 <sub>Manifest V3 · vanilla JS · service worker</sub><br>
-<a href="https://chromewebstore.google.com/detail/apallmfeiokillgdbpedodafkgampneh">Chrome</a> · <a href="https://skynonlabs.com/browser-extensions/skorfire/">Site</a> · <a href="https://github.com/codeXik/skorfire-showcase">Showcase</a>
+<a href="https://chromewebstore.google.com/detail/apallmfeiokillgdbpedodafkgampneh">Chrome</a> · <a href="https://microsoftedge.microsoft.com/addons/detail/neljlflmnlamhdkdgdpokgiaieplmmia">Edge</a> · <a href="https://skynonlabs.com/browser-extensions/skorfire/">Site</a> · <a href="https://github.com/codeXik/skorfire-showcase">Showcase</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/codeXik/noai-youtube-showcase"><img src="images/noai.webp" alt="NoAI for YouTube"></a>
