@@ -11,5 +11,6 @@ Kaynak kodlar özeldir; her projenin herkese açık bir **vitrin** reposu vardı
 - **Transferio:** Zirve'den Luca'ya veri aktarımını hazırlayan Windows uygulaması. → [vitrin](https://github.com/codeXik/transferio-showcase)
 - **Skynon SEO:** Şirket içi SEO paneli; sayfa ve site denetimi, PageSpeed, yapay zekâ ile öncelik sıralı rapor. → [vitrin](https://github.com/codeXik/skynon-seo-showcase)
 - **e-Defter Denetim Merkezi:** Açık kaynak e-Defter ön denetim aracı. → [repo](https://github.com/codeXik/edefter-denetim-merkezi)
+- **tr-vergi:** Açık kaynak vergi hesaplayıcıları: gelir vergisi, KDV tevkifatı, İTO harçları (TypeScript, MIT). → [repo](https://github.com/codeXik/tr-vergi)
 
 📫 hello@skynonlabs.com · 🌐 [skynonlabs.com](https://skynonlabs.com/)
