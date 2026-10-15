@@ -58,6 +58,16 @@ Opens Turkish e-invoices and e-ledgers in the browser side panel, converts to PD
 <a href="https://chromewebstore.google.com/detail/lflikkaafdoihmmnepdhegpkdgdgdofa">Chrome</a> · <a href="https://microsoftedge.microsoft.com/addons/detail/mai-tools/bhdpfmlbgobcecokgdmofhhabdmnopjp">Edge</a> · <a href="https://addons.mozilla.org/firefox/addon/mai-tools/">Firefox</a> · <a href="https://github.com/codeXik/mai-tools-showcase">Showcase</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/codeXik/skynon-seo-showcase"><img src="images/skynon-seo.webp" alt="Skynon SEO"></a>
+<h3>Skynon SEO</h3>
+In-house SEO panel: exact on-page, schema and site checks, mobile PageSpeed, and an AI-written prioritised report. Weekly re-runs.<br>
+<sub>Python · FastAPI · SQLite · AI reports</sub><br>
+<a href="https://github.com/codeXik/skynon-seo-showcase">Showcase</a> · <i>internal tool</i>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 **Open source:** [e-Defter Denetim Merkezi](https://github.com/codeXik/edefter-denetim-merkezi), a pre-audit tool for Turkish e-ledger archives (Python, GPL-3.0).

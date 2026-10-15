@@ -9,6 +9,7 @@ Kaynak kodlar özeldir; her projenin herkese açık bir **vitrin** reposu vardı
 - **Muhasebeci.ai:** İşletmeler için ön muhasebe SaaS. → [vitrin](https://github.com/codeXik/muhasebeci-ai-showcase)
 - **Mai Tools:** e-Fatura, e-Arşiv, e-Defter için tarayıcıda çalışan, verisi cihazdan çıkmayan araçlar → [vitrin](https://github.com/codeXik/mai-tools-showcase)
 - **Transferio:** Zirve'den Luca'ya veri aktarımını hazırlayan Windows uygulaması. → [vitrin](https://github.com/codeXik/transferio-showcase)
+- **Skynon SEO:** Şirket içi SEO paneli; sayfa ve site denetimi, PageSpeed, yapay zekâ ile öncelik sıralı rapor. → [vitrin](https://github.com/codeXik/skynon-seo-showcase)
 - **e-Defter Denetim Merkezi:** Açık kaynak e-Defter ön denetim aracı. → [repo](https://github.com/codeXik/edefter-denetim-merkezi)
 
 📫 hello@skynonlabs.com · 🌐 [skynonlabs.com](https://skynonlabs.com/)
