@@ -70,7 +70,7 @@ In-house SEO panel: exact on-page, schema and site checks, mobile PageSpeed, and
 </tr>
 </table>
 
-**Open source:** [e-Defter Denetim Merkezi](https://github.com/codeXik/edefter-denetim-merkezi), a pre-audit tool for Turkish e-ledger archives (Python, GPL-3.0).
+**Open source:** [e-Defter Denetim Merkezi](https://github.com/codeXik/edefter-denetim-merkezi), a pre-audit tool for Turkish e-ledger archives (Python, GPL-3.0). · [tr-vergi](https://github.com/codeXik/tr-vergi), Turkish tax calculators: income tax, VAT withholding, ITO fees (TypeScript, MIT).
 
 ### How I build
 
