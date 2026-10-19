@@ -3,7 +3,7 @@
 Tarayıcı eklentileri, mobil uygulamalar ve SaaS araçlarını baştan sona tasarlayıp yayımlıyorum. Önce gizlilik, az bağımlılık, yayından önce test.
 Kaynak kodlar özeldir; her projenin herkese açık bir **vitrin** reposu vardır.
 
-- **SkorFire Live Football:** Araç çubuğunda canlı skor, fikstür, puan durumu ve gol bildirimi; 19 dil. → [vitrin](https://github.com/codeXik/skorfire-showcase)
+- **SkorFire Live Football:** Araç çubuğunda canlı skor, fikstür, puan durumu ve gol bildirimi; 19 dil. 2.8.1 ile takım kartı, paylaş menüsü ve Android için Firefox. → [vitrin](https://github.com/codeXik/skorfire-showcase)
 - **NoAI for YouTube:** YouTube'da yapay zekâ ile üretilmiş video ve müzikleri gizler. → [vitrin](https://github.com/codeXik/noai-youtube-showcase)
 - **Kovania:** Arıcılık yönetim uygulaması (Expo, React Native). → [vitrin](https://github.com/codeXik/kovania-showcase)
 - **Muhasebeci.ai:** İşletmeler için ön muhasebe SaaS. → [vitrin](https://github.com/codeXik/muhasebeci-ai-showcase)
